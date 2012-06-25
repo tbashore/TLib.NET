@@ -43,6 +43,7 @@
     <Compile Include="DictionaryTests.cs" />
     <Compile Include="EnumerableTests.cs" />
     <Compile Include="ListTests.cs" />
+    <Compile Include="RandomTests.cs" />
     <Compile Include="SetTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringTests.cs" />

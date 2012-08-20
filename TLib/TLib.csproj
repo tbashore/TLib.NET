@@ -45,6 +45,7 @@
     <Compile Include="DateTimeExtensions.cs" />
     <Compile Include="DictionaryExtensions.cs" />
     <Compile Include="DoubleExtensions.cs" />
+    <Compile Include="FileHelper.cs" />
     <Compile Include="IEnumerableExtensions.cs" />
     <Compile Include="ListExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
